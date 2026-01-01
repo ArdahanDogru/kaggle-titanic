@@ -4,4 +4,4 @@
    **Accuracy:** 77.5%
    **Approach:** XGBoost with hyperparameter tuning via RandomizedSearchCV
    
-   [View Notebook](XGBoost_Refresh.ipynb)
+   [View Notebook](XGBoost Refresh.ipynb)
